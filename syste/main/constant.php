@@ -2,8 +2,8 @@
  
 //normal development configuration
 $mode = "development";
-// $base_url = "https://blopz.com/";
-$base_url = "Blopz-env-1.eba-5mtjeibm.us-east-2.elasticbeanstalk.com";
+$base_url = "https://blopz.com/";
+// $base_url = "https://blopz-env-1.eba-5mtjeibm.us-east-2.elasticbeanstalk.com";
 $processor_url = "syste/main/system.php";
 
 //define your default controller

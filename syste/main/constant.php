@@ -2,7 +2,7 @@
  
 //normal development configuration
 $mode = "development";
-$base_url = "http://blopz.com/";
+$base_url = "https://blopz.com/";
 // $base_url = "http://blopz-env-1.eba-kc9taepc.us-east-1.elasticbeanstalk.com/";
 $processor_url = "syste/main/system.php";
 

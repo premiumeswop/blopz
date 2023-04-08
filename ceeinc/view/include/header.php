@@ -28,35 +28,35 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='wc-block-vendors-style-css' href='<?php echo BASE_URL;?>assets/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style324d.css' type='text/css' media='all' />
-<link rel='stylesheet' id='wc-block-style-css'  href='<?php echo BASE_URL;?>assets/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style324d.css' type='text/css' media='all' />
-<link rel='stylesheet' id='booked-icons-css'  href='<?php echo BASE_URL;?>assets/wp-content/plugins/booked/assets/css/iconsdbc2.css' type='text/css' media='all' />
-<link rel='stylesheet' id='booked-tooltipster-css'  href='<?php echo BASE_URL;?>assets/wp-content/plugins/booked/assets/js/tooltipster/css/tooltipster9b70.css' type='text/css' media='all' />
-<link rel='stylesheet' id='booked-tooltipster-theme-css'  href='<?php echo BASE_URL;?>assets/wp-content/plugins/booked/assets/js/tooltipster/css/themes/tooltipster-light9b70.css' type='text/css' media='all' />
-<link rel='stylesheet' id='booked-animations-css'  href='<?php echo BASE_URL;?>assets/wp-content/plugins/booked/assets/css/animationsdbc2.css' type='text/css' media='all' />
-<link rel='stylesheet' id='booked-styles-css'  href='<?php echo BASE_URL;?>assets/wp-content/plugins/booked/assets/css/stylesdbc2.css' type='text/css' media='all' />
-<link rel='stylesheet' id='booked-responsive-css'  href='<?php echo BASE_URL;?>assets/wp-content/plugins/booked/assets/css/responsivedbc2.css' type='text/css' media='all' />
-<link rel='stylesheet' id='contact-form-7-css'  href='<?php echo BASE_URL;?>assets/wp-content/plugins/contact-form-7/includes/css/stylesbb49.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-vendors-style-css' href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style324d.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style324d.css' type='text/css' media='all' />
+<link rel='stylesheet' id='booked-icons-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/booked/assets/css/iconsdbc2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='booked-tooltipster-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/booked/assets/js/tooltipster/css/tooltipster9b70.css' type='text/css' media='all' />
+<link rel='stylesheet' id='booked-tooltipster-theme-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/booked/assets/js/tooltipster/css/themes/tooltipster-light9b70.css' type='text/css' media='all' />
+<link rel='stylesheet' id='booked-animations-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/booked/assets/css/animationsdbc2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='booked-styles-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/booked/assets/css/stylesdbc2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='booked-responsive-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/booked/assets/css/responsivedbc2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/contact-form-7/includes/css/stylesbb49.css' type='text/css' media='all' />
 <style id='woocommerce-inline-inline-css' type='text/css'>
 .woocommerce form .form-row .required { visibility: visible; }
 </style>
-<link rel='stylesheet' id='wpdp-style2-css'  href='<?php echo BASE_URL;?>assets/wp-content/plugins/wp-datepicker/css/front-stylesb873.css' type='text/css' media='all' />
-<link rel='stylesheet' id='wpdp-style3-css'  href='<?php echo BASE_URL;?>assets/wp-content/plugins/wp-datepicker/css/jquery-ui6281.css' type='text/css' media='all' />
-<link rel='stylesheet' id='moovit-general-css'  href='<?php echo BASE_URL;?>assets/wp-content/themes/moovit/assets/css/general6281.css' type='text/css' media='all' />
-<link rel='stylesheet' id='moovit-shop-css'  href='<?php echo BASE_URL;?>assets/wp-content/themes/moovit/assets/css/shop6281.css' type='text/css' media='all' />
-<link rel='stylesheet' id='moovit-style-css'  href='<?php echo BASE_URL;?>assets/wp-content/themes/moovit/style6281.css' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-icons-css'  href='<?php echo BASE_URL;?>assets/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min74e5.css' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-animations-css'  href='<?php echo BASE_URL;?>assets/wp-content/plugins/elementor/assets/lib/animations/animations.minc578.css' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-frontend-legacy-css'  href='<?php echo BASE_URL;?>assets/wp-content/plugins/elementor/assets/css/frontend-legacy.minc578.css' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-frontend-css'  href='<?php echo BASE_URL;?>assets/wp-content/plugins/elementor/assets/css/frontend.minc578.css' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-5859-css'  href='<?php echo BASE_URL;?>assets/wp-content/uploads/elementor/css/post-58598bdd.css' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-global-css'  href='<?php echo BASE_URL;?>assets/wp-content/uploads/elementor/css/global8bdd.css' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-13-css'  href='<?php echo BASE_URL;?>assets/wp-content/uploads/elementor/css/post-138bdd.css' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-5-css'  href='<?php echo BASE_URL;?>assets/wp-content/uploads/elementor/css/post-55d9f.css' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-9-css'  href='<?php echo BASE_URL;?>assets/wp-content/uploads/elementor/css/post-95d9f.css' type='text/css' media='all' />
-<link rel='stylesheet' id='jquery-qtip-css'  href='<?php echo BASE_URL;?>assets/wp-content/plugins/ql-cost-calculator/style/jquery.qtip6281.css' type='text/css' media='all' />
-<link rel='stylesheet' id='cc-template-css'  href='<?php echo BASE_URL;?>assets/wp-content/plugins/ql-cost-calculator/fonts/template/style6281.css' type='text/css' media='all' />
-<link rel='stylesheet' id='cost_calculator_style-css'  href='<?php echo BASE_URL;?>assets/wp-content/plugins/ql-cost-calculator/style/style6281.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdp-style2-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/wp-datepicker/css/front-stylesb873.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdp-style3-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/wp-datepicker/css/jquery-ui6281.css' type='text/css' media='all' />
+<link rel='stylesheet' id='moovit-general-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/themes/moovit/assets/css/general6281.css' type='text/css' media='all' />
+<link rel='stylesheet' id='moovit-shop-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/themes/moovit/assets/css/shop6281.css' type='text/css' media='all' />
+<link rel='stylesheet' id='moovit-style-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/themes/moovit/style6281.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min74e5.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/elementor/assets/lib/animations/animations.minc578.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-legacy-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/elementor/assets/css/frontend-legacy.minc578.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/elementor/assets/css/frontend.minc578.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-5859-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/uploads/elementor/css/post-58598bdd.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/uploads/elementor/css/global8bdd.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-13-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/uploads/elementor/css/post-138bdd.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-5-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/uploads/elementor/css/post-55d9f.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-9-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/uploads/elementor/css/post-95d9f.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-qtip-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/ql-cost-calculator/style/jquery.qtip6281.css' type='text/css' media='all' />
+<link rel='stylesheet' id='cc-template-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/ql-cost-calculator/fonts/template/style6281.css' type='text/css' media='all' />
+<link rel='stylesheet' id='cost_calculator_style-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/ql-cost-calculator/style/style6281.css' type='text/css' media='all' />
 <style id='cost_calculator_style-inline-css' type='text/css'>
 .cost-calculator-datepicker .ui-datepicker-current-day,
 .cost-calculator-box input[type="checkbox"]:checked+.cost-calculator-checkbox-label,
@@ -158,13 +158,13 @@ body .cost-calculator-container h6,
 }
 
 </style>
-<link rel='stylesheet' id='cost_calculator_style_responsive-css'  href='<?php echo BASE_URL;?>assets/wp-content/plugins/ql-cost-calculator/style/responsive6281.css' type='text/css' media='all' />
+<link rel='stylesheet' id='cost_calculator_style_responsive-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/ql-cost-calculator/style/responsive6281.css' type='text/css' media='all' />
 <link rel='stylesheet' id='aheto_google_fonts-css'  href='https://fonts.googleapis.com/css?family=Poppins:200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&amp;display=swap' type='text/css' media='all' />
-<link rel='stylesheet' id='elegant-css'  href='<?php echo BASE_URL;?>assets/wp-content/plugins/aheto/assets/fonts/elegant.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='font-awesome-css'  href='<?php echo BASE_URL;?>assets/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min1849.css?ver=4.7.0' type='text/css' media='all' />
-<link rel='stylesheet' id='ionicons-css'  href='<?php echo BASE_URL;?>assets/wp-content/plugins/aheto/assets/fonts/ionicons.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='style-main-css'  href='<?php echo BASE_URL;?>assets/wp-content/plugins/aheto/assets/frontend/css/style.css' type='text/css' media='all' />
-<link rel='stylesheet' id='style-skin-css'  href='<?php echo BASE_URL;?>assets/wp-content/uploads/aheto-styles/aheto-style_02084e29.css?timestamp=1633356688' type='text/css' media='all' />
+<link rel='stylesheet' id='elegant-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/aheto/assets/fonts/elegant.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min1849.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='ionicons-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/aheto/assets/fonts/ionicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='style-main-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/aheto/assets/frontend/css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='style-skin-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/uploads/aheto-styles/aheto-style_02084e29.css?timestamp=1633356688' type='text/css' media='all' />
 <link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;ver=5.8.6' type='text/css' media='all' />
 <script type='text/javascript' src='<?php echo BASE_URL;?>assets/wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0' id='jquery-core-js'></script>
 <script type='text/javascript' src='<?php echo BASE_URL;?>assets/wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2' id='jquery-migrate-js'></script>

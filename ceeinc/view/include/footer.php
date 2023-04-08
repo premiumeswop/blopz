@@ -18,8 +18,8 @@
 
 	
         <div class="widget_aheto__logo">
-        	<a href="<?php echo BASE_URL;?>main">
-			<img width="55" height="48" src="<?php echo BASE_URL;?>assets/wp-content/plugins/aheto/assets/images/logo.png" data-lazy-src="<?php echo BASE_URL;?>assets/wp-content/plugins/aheto/assets/images/logo.png" class="aheto-clients__img" alt="logo" loading="lazy" /> </a>       </div>
+        	<a href="<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>main">
+			<img width="55" height="48" src="<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/aheto/assets/images/logo.png" data-lazy-src="<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/aheto/assets/images/logo.png" class="aheto-clients__img" alt="logo" loading="lazy" /> </a>       </div>
 
 	        <p class="widget_aheto__desc">
 			2307 Beverley Rd Brooklyn, New York        </p>
@@ -246,95 +246,95 @@
 		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
 		document.body.className = c;
 	</script>
-	<link rel='stylesheet' id='navigation-style-8-css'  href='<?php echo BASE_URL;?>/assets/wp-content/plugins/aheto/shortcodes/navigation/assets/css/layout8.css' type='text/css' media='all' />
-<link rel='stylesheet' id='moovit-banner-slider-modern-css'  href='<?php echo BASE_URL;?>/assets/wp-content/themes/moovit/aheto/banner-slider/assets/css/cs_layout1.css' type='text/css' media='all' />
-<link rel='stylesheet' id='swiper-css'  href='<?php echo BASE_URL;?>/assets/wp-content/plugins/aheto/assets/frontend/vendors/swiper/swiper.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='magnific-css'  href='<?php echo BASE_URL;?>/assets/wp-content/plugins/aheto/assets/frontend/vendors/magnific/magnific.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='moovit-subscribe-simple-css'  href='<?php echo BASE_URL;?>/assets/wp-content/themes/moovit/aheto/contact-forms/assets/css/cs_layout1.css' type='text/css' media='all' />
-<link rel='stylesheet' id='moovit-heading-simple-css'  href='<?php echo BASE_URL;?>/assets/wp-content/themes/moovit/aheto/heading/assets/css/cs_layout1.css' type='text/css' media='all' />
-<link rel='stylesheet' id='moovit-features-single-modern-css'  href='<?php echo BASE_URL;?>/assets/wp-content/themes/moovit/aheto/features-single/assets/css/cs_layout1.css' type='text/css' media='all' />
-<link rel='stylesheet' id='call-to-action-style-1-css'  href='<?php echo BASE_URL;?>/assets/wp-content/plugins/aheto/shortcodes/call-to-action/assets/css/layout1.css' type='text/css' media='all' />
-<link rel='stylesheet' id='moovit-contents-modern-css'  href='<?php echo BASE_URL;?>/assets/wp-content/themes/moovit/aheto/contents/assets/css/cs_layout1.css' type='text/css' media='all' />
-<link rel='stylesheet' id='moovit-cf-classic-form-css'  href='<?php echo BASE_URL;?>/assets/wp-content/themes/moovit/aheto/contact-forms/assets/css/cs_layout2.css' type='text/css' media='all' />
-<link rel='stylesheet' id='moovit-contacts-classic-css'  href='<?php echo BASE_URL;?>/assets/wp-content/themes/moovit/aheto/contacts/assets/css/cs_layout2.css' type='text/css' media='all' />
-<link rel='stylesheet' id='moovit-networks-modern-css'  href='<?php echo BASE_URL;?>/assets/wp-content/themes/moovit/aheto/social-networks/assets/css/cs_layout1.css' type='text/css' media='all' />
-<link rel='stylesheet' id='moovit-custom-post-types-css'  href='<?php echo BASE_URL;?>/assets/wp-content/themes/moovit/aheto/custom-post-types/assets/css/cs_layout1.css' type='text/css' media='all' />
-<link rel='stylesheet' id='moovit-cpt-1-css'  href='<?php echo BASE_URL;?>/assets/wp-content/themes/moovit/aheto/custom-post-types/assets/css/cs_skin-1.css' type='text/css' media='all' />
-<link rel='stylesheet' id='lity-css'  href='<?php echo BASE_URL;?>/assets/wp-content/plugins/aheto/assets/frontend/vendors/lity/lity.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='moovit-progress-bar-modern-css'  href='<?php echo BASE_URL;?>/assets/wp-content/themes/moovit/aheto/progress-bar/assets/css/cs_layout1.css' type='text/css' media='all' />
-<link rel='stylesheet' id='moovit-testimonials-modern-css'  href='<?php echo BASE_URL;?>/assets/wp-content/themes/moovit/aheto/testimonials/assets/css/cs_layout1.css' type='text/css' media='all' />
-<link rel='stylesheet' id='moovit-pricing-tables-modern-css'  href='<?php echo BASE_URL;?>/assets/wp-content/themes/moovit/aheto/pricing-tables/assets/css/cs_layout1.css' type='text/css' media='all' />
-<link rel='stylesheet' id='contact-info-style-1-css'  href='<?php echo BASE_URL;?>/assets/wp-content/plugins/aheto/shortcodes/contact-info/assets/css/layout1.css' type='text/css' media='all' />
-<link rel='stylesheet' id='social-networks-style-1-css'  href='<?php echo BASE_URL;?>/assets/wp-content/plugins/aheto/shortcodes/social-networks/assets/css/layout1.css' type='text/css' media='all' />
-<link rel='stylesheet' id='navigation-style-1-css'  href='<?php echo BASE_URL;?>/assets/wp-content/plugins/aheto/shortcodes/navigation/assets/css/layout1.css' type='text/css' media='all' />
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-content/plugins/booked/assets/js/spin.min7406.js?ver=2.0.1' id='booked-spin-js-js'></script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-content/plugins/booked/assets/js/spin.jquery7406.js?ver=2.0.1' id='booked-spin-jquery-js'></script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-content/plugins/booked/assets/js/tooltipster/js/jquery.tooltipster.min9b70.js?ver=3.3.0' id='booked-tooltipster-js'></script>
+	<link rel='stylesheet' id='navigation-style-8-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/plugins/aheto/shortcodes/navigation/assets/css/layout8.css' type='text/css' media='all' />
+<link rel='stylesheet' id='moovit-banner-slider-modern-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/themes/moovit/aheto/banner-slider/assets/css/cs_layout1.css' type='text/css' media='all' />
+<link rel='stylesheet' id='swiper-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/plugins/aheto/assets/frontend/vendors/swiper/swiper.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/plugins/aheto/assets/frontend/vendors/magnific/magnific.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='moovit-subscribe-simple-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/themes/moovit/aheto/contact-forms/assets/css/cs_layout1.css' type='text/css' media='all' />
+<link rel='stylesheet' id='moovit-heading-simple-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/themes/moovit/aheto/heading/assets/css/cs_layout1.css' type='text/css' media='all' />
+<link rel='stylesheet' id='moovit-features-single-modern-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/themes/moovit/aheto/features-single/assets/css/cs_layout1.css' type='text/css' media='all' />
+<link rel='stylesheet' id='call-to-action-style-1-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/plugins/aheto/shortcodes/call-to-action/assets/css/layout1.css' type='text/css' media='all' />
+<link rel='stylesheet' id='moovit-contents-modern-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/themes/moovit/aheto/contents/assets/css/cs_layout1.css' type='text/css' media='all' />
+<link rel='stylesheet' id='moovit-cf-classic-form-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/themes/moovit/aheto/contact-forms/assets/css/cs_layout2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='moovit-contacts-classic-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/themes/moovit/aheto/contacts/assets/css/cs_layout2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='moovit-networks-modern-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/themes/moovit/aheto/social-networks/assets/css/cs_layout1.css' type='text/css' media='all' />
+<link rel='stylesheet' id='moovit-custom-post-types-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/themes/moovit/aheto/custom-post-types/assets/css/cs_layout1.css' type='text/css' media='all' />
+<link rel='stylesheet' id='moovit-cpt-1-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/themes/moovit/aheto/custom-post-types/assets/css/cs_skin-1.css' type='text/css' media='all' />
+<link rel='stylesheet' id='lity-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/plugins/aheto/assets/frontend/vendors/lity/lity.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='moovit-progress-bar-modern-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/themes/moovit/aheto/progress-bar/assets/css/cs_layout1.css' type='text/css' media='all' />
+<link rel='stylesheet' id='moovit-testimonials-modern-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/themes/moovit/aheto/testimonials/assets/css/cs_layout1.css' type='text/css' media='all' />
+<link rel='stylesheet' id='moovit-pricing-tables-modern-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/themes/moovit/aheto/pricing-tables/assets/css/cs_layout1.css' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-info-style-1-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/plugins/aheto/shortcodes/contact-info/assets/css/layout1.css' type='text/css' media='all' />
+<link rel='stylesheet' id='social-networks-style-1-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/plugins/aheto/shortcodes/social-networks/assets/css/layout1.css' type='text/css' media='all' />
+<link rel='stylesheet' id='navigation-style-1-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/plugins/aheto/shortcodes/navigation/assets/css/layout1.css' type='text/css' media='all' />
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/plugins/booked/assets/js/spin.min7406.js?ver=2.0.1' id='booked-spin-js-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/plugins/booked/assets/js/spin.jquery7406.js?ver=2.0.1' id='booked-spin-jquery-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/plugins/booked/assets/js/tooltipster/js/jquery.tooltipster.min9b70.js?ver=3.3.0' id='booked-tooltipster-js'></script>
 <script type='text/javascript' id='booked-functions-js-extra'>
 /* <![CDATA[ */
 var booked_js_vars = {"ajax_url":"https:\/\/moovit.foxthemes.me\/wp-admin\/admin-ajax.php","profilePage":"","publicAppointments":"","i18n_confirm_appt_delete":"Are you sure you want to cancel this appointment?","i18n_please_wait":"Please wait ...","i18n_wrong_username_pass":"Wrong username\/password combination.","i18n_fill_out_required_fields":"Please fill out all required fields.","i18n_guest_appt_required_fields":"Please enter your name to book an appointment.","i18n_appt_required_fields":"Please enter your name, your email address and choose a password to book an appointment.","i18n_appt_required_fields_guest":"Please fill in all \"Information\" fields.","i18n_password_reset":"Please check your email for instructions on resetting your password.","i18n_password_reset_error":"That username or email is not recognized."};
 /* ]]> */
 </script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-content/plugins/booked/assets/js/functionsdbc2.js?ver=2.2.6' id='booked-functions-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/plugins/booked/assets/js/functionsdbc2.js?ver=2.2.6' id='booked-functions-js'></script>
 <script type='text/javascript' id='frontend-js-js-extra'>
 /* <![CDATA[ */
 var get = {"ajaxurl":"https:\/\/moovit.foxthemes.me\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-content/plugins/aheto/assets/frontend/js/frontend8a54.js?ver=1.0.0' id='frontend-js-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/plugins/aheto/assets/frontend/js/frontend8a54.js?ver=1.0.0' id='frontend-js-js'></script>
 <script type='text/javascript' id='contact-form-7-js-extra'>
 /* <![CDATA[ */
 var wpcf7 = {"apiSettings":{"root":"https:\/\/moovit.foxthemes.me\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-content/plugins/contact-form-7/includes/js/scriptsbb49.js?ver=5.2.2' id='contact-form-7-js'></script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min44fd.js?ver=2.70' id='jquery-blockui-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/plugins/contact-form-7/includes/js/scriptsbb49.js?ver=5.2.2' id='contact-form-7-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min44fd.js?ver=2.70' id='jquery-blockui-js'></script>
 <script type='text/javascript' id='wc-add-to-cart-js-extra'>
 /* <![CDATA[ */
 var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/moovit.foxthemes.me\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.mina94e.js?ver=4.4.1' id='wc-add-to-cart-js'></script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-content/plugins/qodeblock/dist/assets/js/dismiss344f.js?ver=1628601291' id='qodeblock-dismiss-js-js'></script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-includes/js/comment-reply.min6281.js?ver=5.8.6' id='comment-reply-js'></script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-content/themes/moovit/aheto/js/aheto-frontend6281.js?ver=5.8.6' id='moovit-script-frontend-js'></script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-includes/js/jquery/ui/menu.min35d0.js?ver=1.12.1' id='jquery-ui-menu-js'></script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-includes/js/jquery/ui/selectmenu.min35d0.js?ver=1.12.1' id='jquery-ui-selectmenu-js'></script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-includes/js/jquery/ui/mouse.min35d0.js?ver=1.12.1' id='jquery-ui-mouse-js'></script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-includes/js/jquery/ui/slider.min35d0.js?ver=1.12.1' id='jquery-ui-slider-js'></script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-content/plugins/ql-cost-calculator/js/jquery.ui.touch-punch.min6281.js?ver=5.8.6' id='jquery-ui-touch-punch-js'></script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-content/plugins/ql-cost-calculator/js/jquery.costCalculator.min6281.js?ver=5.8.6' id='jquery-costCalculator-js'></script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-content/plugins/ql-cost-calculator/js/jquery.qtip.min6281.js?ver=5.8.6' id='jquery-qtip-js'></script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-content/plugins/ql-cost-calculator/js/jquery.blockUI.min6281.js?ver=5.8.6' id='jquery-block-ui-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.mina94e.js?ver=4.4.1' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/plugins/qodeblock/dist/assets/js/dismiss344f.js?ver=1628601291' id='qodeblock-dismiss-js-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-includes/js/comment-reply.min6281.js?ver=5.8.6' id='comment-reply-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/themes/moovit/aheto/js/aheto-frontend6281.js?ver=5.8.6' id='moovit-script-frontend-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-includes/js/jquery/ui/menu.min35d0.js?ver=1.12.1' id='jquery-ui-menu-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-includes/js/jquery/ui/selectmenu.min35d0.js?ver=1.12.1' id='jquery-ui-selectmenu-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-includes/js/jquery/ui/mouse.min35d0.js?ver=1.12.1' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-includes/js/jquery/ui/slider.min35d0.js?ver=1.12.1' id='jquery-ui-slider-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/plugins/ql-cost-calculator/js/jquery.ui.touch-punch.min6281.js?ver=5.8.6' id='jquery-ui-touch-punch-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/plugins/ql-cost-calculator/js/jquery.costCalculator.min6281.js?ver=5.8.6' id='jquery-costCalculator-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/plugins/ql-cost-calculator/js/jquery.qtip.min6281.js?ver=5.8.6' id='jquery-qtip-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/plugins/ql-cost-calculator/js/jquery.blockUI.min6281.js?ver=5.8.6' id='jquery-block-ui-js'></script>
 <script type='text/javascript' id='cost_calculator_main-js-extra'>
 /* <![CDATA[ */
 var cost_calculator_config = [];
 cost_calculator_config = {"ajaxurl":"https:\/\/moovit.foxthemes.me\/wp-admin\/admin-ajax.php","is_rtl":0};;
 /* ]]> */
 </script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-content/plugins/ql-cost-calculator/js/cost_calculator6281.js?ver=5.8.6' id='cost_calculator_main-js'></script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-includes/js/wp-embed.min6281.js?ver=5.8.6' id='wp-embed-js'></script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-content/plugins/aheto/shortcodes/navigation/assets/js/layout8.min.js' id='navigation-8-js-js'></script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-content/themes/moovit/aheto/banner-slider/assets/js/cs_layout1.min.js' id='moovit-banner-slider-modern-js-js'></script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-content/plugins/aheto/assets/frontend/vendors/swiper/swiper.min.js' id='swiper-js'></script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-content/plugins/aheto/assets/frontend/vendors/magnific/magnific.min.js' id='magnific-js'></script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-content/themes/moovit/aheto/contact-forms/assets/js/cs_layout1.min.js' id='moovit-subscribe-simple-js-js'></script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-content/themes/moovit/aheto/contact-forms/assets/js/cs_layout2.min.js' id='moovit-cf-classic-form-js-js'></script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-content/plugins/aheto/assets/frontend/vendors/lity/lity.min.js' id='lity-js'></script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-content/plugins/aheto/assets/frontend/vendors/isotope/isotope.min.js' id='isotope-js'></script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-includes/js/imagesloaded.mineda1.js?ver=4.1.4' id='imagesloaded-js'></script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-content/themes/moovit/aheto/testimonials/assets/js/cs_layout1.min.js' id='moovit-testimonials-modern-js-js'></script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-content/themes/moovit/aheto/media/assets/js/cs_layout2.min.js' id='moovit-media-responsive-scripts-js'></script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-content/plugins/aheto/assets/frontend/vendors/lazyload/lazyload.min7556.js?ver=0.9.0' id='aheto-lazy-js'></script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-content/plugins/aheto/assets/frontend/vendors/script.min.js' id='aheto-main-js'></script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-content/plugins/elementor/assets/js/frontend-modules.minc578.js?ver=3.0.14' id='elementor-frontend-modules-js'></script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-content/plugins/elementor/assets/lib/dialog/dialog.mina288.js?ver=4.8.1' id='elementor-dialog-js'></script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2' id='elementor-waypoints-js'></script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-content/plugins/elementor/assets/lib/share-link/share-link.minc578.js?ver=3.0.14' id='share-link-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/plugins/ql-cost-calculator/js/cost_calculator6281.js?ver=5.8.6' id='cost_calculator_main-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-includes/js/wp-embed.min6281.js?ver=5.8.6' id='wp-embed-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/plugins/aheto/shortcodes/navigation/assets/js/layout8.min.js' id='navigation-8-js-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/themes/moovit/aheto/banner-slider/assets/js/cs_layout1.min.js' id='moovit-banner-slider-modern-js-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/plugins/aheto/assets/frontend/vendors/swiper/swiper.min.js' id='swiper-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/plugins/aheto/assets/frontend/vendors/magnific/magnific.min.js' id='magnific-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/themes/moovit/aheto/contact-forms/assets/js/cs_layout1.min.js' id='moovit-subscribe-simple-js-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/themes/moovit/aheto/contact-forms/assets/js/cs_layout2.min.js' id='moovit-cf-classic-form-js-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/plugins/aheto/assets/frontend/vendors/lity/lity.min.js' id='lity-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/plugins/aheto/assets/frontend/vendors/isotope/isotope.min.js' id='isotope-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-includes/js/imagesloaded.mineda1.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/themes/moovit/aheto/testimonials/assets/js/cs_layout1.min.js' id='moovit-testimonials-modern-js-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/themes/moovit/aheto/media/assets/js/cs_layout2.min.js' id='moovit-media-responsive-scripts-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/plugins/aheto/assets/frontend/vendors/lazyload/lazyload.min7556.js?ver=0.9.0' id='aheto-lazy-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/plugins/aheto/assets/frontend/vendors/script.min.js' id='aheto-main-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/plugins/elementor/assets/js/frontend-modules.minc578.js?ver=3.0.14' id='elementor-frontend-modules-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/plugins/elementor/assets/lib/dialog/dialog.mina288.js?ver=4.8.1' id='elementor-dialog-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/plugins/elementor/assets/lib/share-link/share-link.minc578.js?ver=3.0.14' id='share-link-js'></script>
 <script type='text/javascript' id='elementor-frontend-js-before'>
 var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"3.0.14","is_static":false,"legacyMode":{"elementWrappers":true},"urls":{"assets":"https:\/\/moovit.foxthemes.me\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":13,"title":"Moovit%20%E2%80%93%20Your%20Tranport%20and%20Logistics%20Company%20%E2%80%93%20Moovit%20invest%20time%20and%20expertise%20to%20fully%20understand%20your%20business%20before%20designing%20plans%20to%20improve%20your%20supply%20chain.","excerpt":"","featuredImage":false}};
 </script>
-<script type='text/javascript' src='<?php echo BASE_URL;?>/assets/wp-content/plugins/elementor/assets/js/frontend.minc578.js?ver=3.0.14' id='elementor-frontend-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>/assets/wp-content/plugins/elementor/assets/js/frontend.minc578.js?ver=3.0.14' id='elementor-frontend-js'></script>
 		<script type="text/javascript">
 			function initElements($scope) {
 				if(typeof elementor !== "undefined" && typeof elementor.widgetsCache["aheto_custom-post-types"].controls !== "undefined") {

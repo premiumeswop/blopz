@@ -2,8 +2,12 @@
  
 //normal development configuration
 $mode = "development";
-$base_url = "https://blopz.com/";
-// $base_url = "http://blopz-env-1.eba-kc9taepc.us-east-1.elasticbeanstalk.com/";
+
+$base_url = "http://localhost/blopz/";
+if (getenv('BLOPZ_APP_URL')) {
+  $base_url = getenv('BLOPZ_APP_URL');
+}
+
 $processor_url = "syste/main/system.php";
 
 //define your default controller

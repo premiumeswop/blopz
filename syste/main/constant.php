@@ -5,7 +5,10 @@ $mode = "development";
 
 $base_url = "http://localhost/blopz/";
 if (getenv('BLOPZ_APP_URL')) {
-  $base_url = getenv('BLOPZ_APP_URL');
+//   $base_url = getenv('BLOPZ_APP_URL');
+   $host = $_SERVER['HTTP_HOST'];
+  $protocol = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http";
+  $base_url = $protocol . "://" . $host;
 }
 
 $processor_url = "syste/main/system.php";

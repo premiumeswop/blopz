@@ -11,7 +11,7 @@ if (getenv('BLOPZ_APP_URL')) {
 $processor_url = "syste/main/system.php";
 
 //define your default controller
-$defaultcontroller = "";
+$defaultcontroller = "main";
 
 //define where asset folder will be held
 $FOLDER_E= "externals";

@@ -166,28 +166,28 @@ body .cost-calculator-container h6,
 <link rel='stylesheet' id='style-main-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/aheto/assets/frontend/css/style.css' type='text/css' media='all' />
 <link rel='stylesheet' id='style-skin-css'  href='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/uploads/aheto-styles/aheto-style_02084e29.css?timestamp=1633356688' type='text/css' media='all' />
 <link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;ver=5.8.6' type='text/css' media='all' />
-<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'];?>assets/wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0' id='jquery-core-js'></script>
-<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'];?>assets/wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2' id='jquery-migrate-js'></script>
-<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'];?>assets/wp-includes/js/jquery/ui/core.min35d0.js?ver=1.12.1' id='jquery-ui-core-js'></script>
-<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'];?>assets/wp-includes/js/jquery/ui/datepicker.min35d0.js?ver=1.12.1' id='jquery-ui-datepicker-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-includes/js/jquery/ui/core.min35d0.js?ver=1.12.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-includes/js/jquery/ui/datepicker.min35d0.js?ver=1.12.1' id='jquery-ui-datepicker-js'></script>
 <!-- <script type='text/javascript' id='jquery-ui-datepicker-js-after'>
 jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
 </script> -->
-<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'];?>assets/wp-content/plugins/wp-datepicker/js/scripts-front6281.js?ver=5.8.6' id='wpdp-scripts2-js'></script>
-<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'];?>assets/wp-content/plugins/wp-datepicker/js/wpdp_auto_script6281.js?ver=5.8.6' id='datepicker-script-auto-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/wp-datepicker/js/scripts-front6281.js?ver=5.8.6' id='wpdp-scripts2-js'></script>
+<script type='text/javascript' src='<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/wp-datepicker/js/wpdp_auto_script6281.js?ver=5.8.6' id='datepicker-script-auto-js'></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 5.8.6" />
 <meta name="generator" content="WooCommerce 4.4.1" />
 <link rel="canonical" href="index.html" />
 <link rel='shortlink' href='index.html' />
-<link rel="alternate" type="application/json+oembed" href="<?php echo "https://".$_SERVER['HTTP_HOST'];?>assets/wp-json/oembed/1.0/embedc578.json?url=https%3A%2F%2Fmoovit.foxthemes.me%2F" />
-<link rel="alternate" type="text/xml+oembed" href="<?php echo "https://".$_SERVER['HTTP_HOST'];?>assets/wp-json/oembed/1.0/embedbaec?url=https%3A%2F%2Fmoovit.foxthemes.me%2F&amp;format=xml" />
+<link rel="alternate" type="application/json+oembed" href="<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-json/oembed/1.0/embedc578.json?url=https%3A%2F%2Fmoovit.foxthemes.me%2F" />
+<link rel="alternate" type="text/xml+oembed" href="<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-json/oembed/1.0/embedbaec?url=https%3A%2F%2Fmoovit.foxthemes.me%2F&amp;format=xml" />
 	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
-	 <link rel="icon" href="<?php echo "https://".$_SERVER['HTTP_HOST'];?>assets/wp-content/plugins/aheto/assets/images/logo.png" sizes="32x32" />
-<link rel="icon" href="<?php echo "https://".$_SERVER['HTTP_HOST'];?>assets/wp-content/plugins/aheto/assets/images/logo.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="<?php echo "https://".$_SERVER['HTTP_HOST'];?>assets/wp-content/plugins/aheto/assets/images/logo.png" />
-<meta name="msapplication-TileImage" content="<?php echo "https://".$_SERVER['HTTP_HOST'];?>assets/wp-content/plugins/aheto/assets/images/logo.png" /> 
+	 <link rel="icon" href="<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/aheto/assets/images/logo.png" sizes="32x32" />
+<link rel="icon" href="<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/aheto/assets/images/logo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/aheto/assets/images/logo.png" />
+<meta name="msapplication-TileImage" content="<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/aheto/assets/images/logo.png" /> 
 <style type="text/css">body .aheto-footer{background-color:#131c21;}body .aheto-footer, body .aheto-footer p{color:rgba(255,255,255,0.6);}body .aheto-footer a{color:rgba(255,255,255,0.6);}</style><style type="text/css"></style>    <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body class="home page-template page-template-aheto_canvas page page-id-13 theme-moovit woocommerce-no-js no-sidebar elementor-default elementor-kit-5859 elementor-page elementor-page-13">
@@ -210,8 +210,8 @@ jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeTex
 			<div class="aheto_navigation_63fe22ce0ed8f  main-header main-header--classic-2 main-header-js transparent_white" data-mobile-menu="1199">
     <div class="main-header__main-line">
         <div class="aheto-logo main-header__logo">
-            <a href="<?php echo "https://".$_SERVER['HTTP_HOST'];?>main">
-				<img width="234" height="82" style="background-color:white;" src="<?php echo "https://".$_SERVER['HTTP_HOST'];?>assets/wp-content/plugins/aheto/assets/images/Blopz logo.png"  class="aheto-logo__image" alt="logo" loading="lazy" /><img width="234" height="82" src="<?php echo "https://".$_SERVER['HTTP_HOST'];?>aseest/wp-content/plugins/aheto/assets/images/Blopz logo.png" data-lazy-src="<?php echo "https://".$_SERVER['HTTP_HOST'];?>assets/wp-content/plugins/aheto/assets/images/Blopz logo.png" class="aheto-logo__image aheto-logo__image-scroll" alt="logo" loading="lazy" /><img width="234" height="82" src="wp-content/plugins/aheto/assets/images/Blopz logo.png" data-lazy-src="<?php echo "https://".$_SERVER['HTTP_HOST'];?>assets/wp-content/plugins/aheto/assets/images/Blopz logo.png" class="aheto-logo__image mob-logo" alt="logo" loading="lazy" /><img width="234" height="82" src="<?php echo "https://".$_SERVER['HTTP_HOST'];?>assets/wp-content/plugins/aheto/assets/images/Blopz logo.png" data-lazy-src="<?php echo "https://".$_SERVER['HTTP_HOST'];?>assets/wp-content/plugins/aheto/assets/images/Blopz logo.png" class="aheto-logo__image mob-logo aheto-logo__image-mob-scroll" alt="logo" loading="lazy" />            </a>
+            <a href="<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>main">
+				<img width="234" height="82" style="background-color:white;" src="<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/aheto/assets/images/Blopz logo.png"  class="aheto-logo__image" alt="logo" loading="lazy" /><img width="234" height="82" src="<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>aseest/wp-content/plugins/aheto/assets/images/Blopz logo.png" data-lazy-src="<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/aheto/assets/images/Blopz logo.png" class="aheto-logo__image aheto-logo__image-scroll" alt="logo" loading="lazy" /><img width="234" height="82" src="wp-content/plugins/aheto/assets/images/Blopz logo.png" data-lazy-src="<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/aheto/assets/images/Blopz logo.png" class="aheto-logo__image mob-logo" alt="logo" loading="lazy" /><img width="234" height="82" src="<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/aheto/assets/images/Blopz logo.png" data-lazy-src="<?php echo "https://".$_SERVER['HTTP_HOST'] . "/";?>assets/wp-content/plugins/aheto/assets/images/Blopz logo.png" class="aheto-logo__image mob-logo aheto-logo__image-mob-scroll" alt="logo" loading="lazy" />            </a>
         </div>
         <div class="main-header__menu-box">
 

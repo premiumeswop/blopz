@@ -8,10 +8,10 @@ class db_config{
 
   $db = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'ceeg',
+	'hostname' => getenv("DB_HOST") ? getenv("DB_HOST") : 'localhost',
+	'username' => getenv("DB_USER") ? getenv("DB_USER") : 'root',
+	'password' => getenv("DB_PASS") ? getenv("DB_PASS") : '',
+	'database' => getenv("DB_NAME") ? getenv("DB_NAME") : 'blopz',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
